@@ -16,6 +16,5 @@ tryAssertions | Using this function, you can check the list of functions for tri
 tryExceptions | Using this function, you can check the list of functions for triggering exceptions
 tryAssOrExcs  | Using this function, you can check the list of functions for triggering assertions or exceptions
 
-For a more detailed introduction to using the simple_testing package, look and run the
-[example](https://github.com/iLnaar/simple_testing/blob/master/test/simple_testing_example.dart)
-from test directory.
+For a more detailed introduction to using the simple_testing package, look and run the example
+[test/simple_testing_example.dart](https://github.com/iLnaar/simple_testing/blob/master/test/simple_testing_example.dart).
