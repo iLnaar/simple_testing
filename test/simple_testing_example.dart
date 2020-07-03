@@ -5,7 +5,7 @@ import 'package:test/test.dart';
 // This is a function that needs to be tested.
 //
 // This function has no practical use. Written only to illustrate the use of the
-// package [simple_testing].
+// simple_testing package.
 //
 // She calculates the sum of the numbers of list [a], and the sum of the numbers
 // of list [b]. Then she divides the sum of [a] by the sum of [b]. The lists
@@ -15,7 +15,7 @@ import 'package:test/test.dart';
 //
 // In order to make sure that all these conditions are checked in the
 // function (in the form of Assertions or Exceptions) and the
-// packet [simple_testing] is created.
+// simple_testing packet is created.
 //
 // Try commenting out the checks marked with an "*" as if you forgot to write
 // this check. Then run the test and see how it works.
@@ -39,7 +39,7 @@ double calculate(List<double> a, List<double> b) {
 
 // This function shows how you can verify that the [calculate] function
 // implements all the necessary checks in the form of Assertions or Exceptions.
-// This helps [simple_testing] package.
+// This helps simple_testing package.
 void main() {
   group('Constructors', () {
 
